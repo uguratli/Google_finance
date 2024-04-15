@@ -1,2 +1,2 @@
 # Google_finance
- Using google finance with google sheets via python
+ Using google finance via python on google sheets.
